@@ -1,0 +1,53 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat:300,400,500);
+.service , .service1{
+    height: 110vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E6E6ED;
+    
+}
+.service{
+  flex-direction: column;
+  padding-top:2%;
+}
+.service-13 {
+  font-family: "Montserrat", sans-serif;
+	color: #8d97ad;
+  font-weight: 300;
+}
+
+.service-13 h1, .service-13 h2, .service-13 h3, .service-13 h4, .service-13 h5, .service-13 h6 {
+  color: #3e4555;
+}
+
+.service-13 .font-weight-medium {
+	font-weight: 500;
+}
+
+.service-13 .bg-light {
+    background-color: #f4f8fa !important;
+}
+
+.service-13 a {
+	text-decoration: none;
+}
+
+
+.service-13 .linking {
+	color: #3e4555;
+}
+
+.service-13 .linking:hover {
+	color: #316ce8;
+}
+
+.service-13 .card.card-shadow {
+    -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+    box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+}
+
+.service-13 .btn-md {
+    padding: 15px 45px;
+    font-size: 16px;
+}
